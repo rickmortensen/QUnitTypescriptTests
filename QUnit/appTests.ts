@@ -12,7 +12,7 @@ test("Initialize Greeter", function () {
     // Act
 
     // Assert
-    ok($("#content").html().indexOf("The time is: ") >= 0, "#content should contain 'The time is: '");
+    ok($("#content").html().indexOf("The time is:x ") >= 0, "#content should contain 'The time is: '");
 });
 
 test("Can generate string", function () {
