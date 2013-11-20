@@ -1,0 +1,16 @@
+﻿{
+    "Framework": "qunit",
+    
+    "TestFileTimeout": "200",
+    
+    "TestHarnessLocationMode": "TestFileAdjacent",
+    
+    "TestHarnessDirectory": "C:\Prototypes\QUnit Typescript Tests\TypeScriptHTMLApp1\QUnit",
+
+    "TypeScriptCodeGenTarget" : "ES5",
+    
+    "RootReferencePathMode":"DriveRoot|SettingsFileDirectory",
+    
+    "CodeCoverageIncludes": [],
+    "CodeCoverageExcludes": []
+}
